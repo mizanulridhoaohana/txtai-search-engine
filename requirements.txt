@@ -1,0 +1,4 @@
+numpy==1.23.5
+pandas==1.5.3
+streamlit==1.35.0
+txtai==7.1.0
