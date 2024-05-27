@@ -30,3 +30,17 @@ To run this project locally, follow these steps:
 
    - https://www.kaggle.com/datasets/piyushjain16/amazon-product-data
    - https://www.kaggle.com/datasets/glushko/seth-godins-blogs-dataset
+
+## Usage
+Data Preparation: Ensure your datasets (Amazon and Seth-website data) are in the appropriate format and placed in the data directory.
+
+Generate Embeddings: Run the script to generate embeddings for the datasets.
+
+### Start the Search Engine: Launch the search engine to start querying.
+```
+main.ipynb
+```
+### Run with Streamlit: Use Streamlit for web-based deployment.
+```
+streamlit run app_main.py
+```
