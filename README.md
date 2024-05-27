@@ -34,13 +34,13 @@ To run this project locally, follow these steps:
 ## Usage
 Data Preparation: Ensure your datasets (Amazon and Seth-website data) are in the appropriate format and placed in the data directory.
 
-Generate Embeddings: Run the script to generate embeddings for the datasets.
 
-### Start the Search Engine: Launch the search engine to start querying.
+
+1. Generate Embeddings: Run the script to generate embeddings for the datasets.
 ```
 main.ipynb
 ```
-### Run with Streamlit: Use Streamlit for web-based deployment.
+2. Run with Streamlit: Use Streamlit for web-based deployment.
 ```
 streamlit run app_main.py
 ```
