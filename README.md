@@ -37,10 +37,10 @@ Data Preparation: Ensure your datasets (Amazon and Seth-website data) are in the
 
 
 1. Generate Embeddings: Run the script to generate embeddings for the datasets.
-```
-main.ipynb
-```
+   ```
+   main.ipynb
+   ```
 2. Run with Streamlit: Use Streamlit for web-based deployment.
-```
-streamlit run app_main.py
-```
+   ```
+   streamlit run app_main.py
+   ```
